@@ -27,8 +27,7 @@ Hi! I’m Blesson, a passionate tech enthusiast and developer. With a keen inter
 ## Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/blesson-georgye)
 - [Portfolio Website](#) (Coming soon!)
-- [GitHub](https://github.com/blesson-georgye)
-- Mail: (blessonmatgeo@outlook.com)
+- Mail: blessonmatgeo@outlook.com
 
 Feel free to reach out for collaboration or just a friendly chat about technology and innovation!
 
